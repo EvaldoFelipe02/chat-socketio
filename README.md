@@ -11,7 +11,16 @@ Socketio: `npm install socket.io`
 Jquery: `npm install jquery`
 
 ### color-palette
-[coolors.co/50514f-f25f5c-ffe066-247ba0-70c1b3](https://coolors.co/50514f-f25f5c-ffe066-247ba0-70c1b3)
+<details>
+
+<summary><a href="https://coolors.co/50514f-f25f5c-ffe066-247ba0-70c1b3">coolors.co/50514f-f25f5c-ffe066-247ba0-70c1b3</a></summary>
+
+- ![#f25f5c](https://via.placeholder.com/15/f25f5c/000000?text=+) `#f25f5c`
+- ![#ffe066](https://via.placeholder.com/15/ffe066/000000?text=+) `#ffe066`
+- ![#247ba0](https://via.placeholder.com/15/247ba0/000000?text=+) `#247ba0`
+- ![#70c1b3](https://via.placeholder.com/15/70c1b3/000000?text=+) `#70c1b3`
+- ![#50514f](https://via.placeholder.com/15/50514f/000000?text=+) `#50514f`
+</details>
 
 ## :runner: To run this project ?
 
