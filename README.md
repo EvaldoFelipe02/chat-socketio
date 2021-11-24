@@ -1,6 +1,6 @@
 # chat-socketio
 
-ಠoಠ - "YO, a simple chat application !"
+ಠoಠ - "YEAH, a simple chat application with NodeJS and Socket.io"
 
 ## What was used ?
 
@@ -24,11 +24,10 @@ Jquery: `npm install jquery`
 
 ## :runner: To run this project ?
 
-Run `npm install` or `yarn install` in project's root folder
-
-In server folder, run: `node main.js`
-
-Next, open the `index.html` file
+1. Clone this project
+2. Run `npm install` or `yarn install` in project's root folder
+3. In server folder, run: `node main.js`
+4. Next, open the `index.html` file or serve using [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 The application are running on **http://localhost:3000/**
 
