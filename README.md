@@ -29,7 +29,7 @@ Jquery: `npm install jquery`
 3. In server folder, run: `node main.js`
 4. Next, open the `index.html` file or serve using [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-The application are running on **http://localhost:3000/**
+The application server are running on **http://localhost:3000/**
 
 **Based on:**
 
